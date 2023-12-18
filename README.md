@@ -1,2 +1,3 @@
 # Yelp-text-classification-based-on-RNN-series-models
+This is a portion of the code for a project in my deep learning course. Please include a reference to the source if you intend to use it.
 The corresponding Python file for the data preprocessing section is data_process.py, the corresponding Python file for building the network structure is model.py, the corresponding Python file for training the model is train.py, and the corresponding Python file for testing the model is test.py. After installing the required third-party libraries (torch, pickle, numpy, matplotlib, time), place the yelp_academic_dataset_review.json file in the ../dataset/ path. Run the code files in order: data_process.py → train.py → test.py.
